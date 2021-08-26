@@ -17,6 +17,10 @@ Otherwise if you use the Discord plugin, your image url would go in **sm_surftim
 
 
 
+Example:
+
+**sm_surftimer_discord_main_url_root "https://raw.githubusercontent.com/Sayt123/SurfMapPics/maps-only/csgo/"**
+
 
 ------------------------------------------------------------------------------------------------------
 "But what if I want them in [a different resolution?](https://github.com/search?q=bulk+image+resize)"
